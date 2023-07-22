@@ -39,5 +39,5 @@ nltk.download('wordnet')
 ## How to run
 * Through Terminal
 ```
-python chatbot.py
+python3 chatbot.py
 ```
